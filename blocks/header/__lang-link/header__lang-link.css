@@ -11,3 +11,10 @@
 .header__lang-link:first-of-type {
     text-decoration-line: underline;
 }
+
+@media (max-width : 767px) {
+    .header__lang-link {
+        font-size: 18px;
+        line-height: 20px;
+    }
+}
