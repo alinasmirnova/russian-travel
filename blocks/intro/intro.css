@@ -4,3 +4,23 @@
     flex-direction: column;
     width: 690px;
 }
+
+@media (max-width : 1279px) {
+    .intro {
+        margin: 0 0 92px 48px;
+    }
+}
+
+@media (max-width : 1023px) {
+    .intro {
+        margin: 0 24px 88px;
+        width: calc(100% - 48px);    
+    }
+}
+
+@media (max-width : 767px) {
+    .intro {
+        margin: 0 16px 64px 16px;
+        width: calc(100% - 32px);    
+    }
+}
