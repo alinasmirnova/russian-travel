@@ -1,4 +1,6 @@
 .page {
     font-family: 'Inter', 'Arial', 'Helvetica', sans-serif;
     background-color: #2A2C2F;
+    display: flex;
+    justify-content: center;
 }

@@ -1,0 +1,9 @@
+.page__content {
+    width: 100%;
+}
+
+@media (min-width : 1280px) {
+    .page__content {
+        width: 1280px;
+    }
+}
