@@ -5,3 +5,9 @@
     align-content: flex-end;
     max-width: 1184px;
 }
+
+@media (min-width : 1024px) {
+	.header {
+        margin: 28px 48px 48px;
+    }
+}
