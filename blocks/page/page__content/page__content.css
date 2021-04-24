@@ -1,5 +1,7 @@
 .page__content {
     width: 100%;
+    display: flex;
+    flex-direction: column;
 }
 
 @media (min-width : 1280px) {
