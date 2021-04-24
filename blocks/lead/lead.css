@@ -4,3 +4,21 @@
     flex-direction: column;
     align-items: center;
 }
+
+@media (max-width : 1024px) {
+	.lead {
+        margin: 0 48px 92px;
+    }
+}
+
+@media (max-width : 768px) {
+	.lead {
+        margin: 0 0 88px;
+    }
+}
+
+@media (max-width : 320px) {
+	.lead {
+        margin: 0 0 64px;
+    }
+}
