@@ -1,5 +1,5 @@
 .places {
-    display: flex;
-    flex-direction: column;
+    display: grid;
+    grid-gap: 73px;
     margin: 0 148px 92px;
 }
