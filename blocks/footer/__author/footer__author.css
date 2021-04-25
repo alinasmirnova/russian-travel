@@ -7,7 +7,7 @@
     color: #FFFFFF;
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .footer__author {
         line-height: 1;
         margin-top: 48px;

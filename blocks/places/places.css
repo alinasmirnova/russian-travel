@@ -4,20 +4,20 @@
     margin: 0 148px 92px;
 }
 
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
     .places {
         margin: 0 48px 92px;
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .places {
         grid-gap: 72px;
         margin: 0 24px 90px;
     }
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .places {
         grid-gap: 50px;
         margin: 0 0 64px;

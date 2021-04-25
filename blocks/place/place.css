@@ -8,21 +8,21 @@
     grid-template-columns: minmax(min-content, 460px) 1fr;
 }
 
-@media (max-width : 1279px) {
+@media (max-width: 1279px) {
     .place {
         grid-column-gap: 32px;
         grid-template-columns: minmax(min-content, 440px) 1fr;
     }    
 }
 
-@media (max-width : 1023px) {
+@media (max-width: 1023px) {
     .place {
         grid-column-gap: 28px;
         grid-template-columns: minmax(min-content, 340px) 1fr;
     }    
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .place {
         grid-template-areas:
             "title"

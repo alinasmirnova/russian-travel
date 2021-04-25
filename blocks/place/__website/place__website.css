@@ -6,7 +6,7 @@
     align-items: left;
 }
 
-@media (max-width : 767px) {
+@media (max-width: 767px) {
     .place__website {
         margin: 0 16px;
     }
