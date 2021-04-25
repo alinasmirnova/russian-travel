@@ -2,7 +2,7 @@
     font-style: normal;
     font-weight: normal;
     font-size: 12px;
-    line-height: 20px;
+    line-height: 1.7;
     letter-spacing: 0.2em;
     color: #AAAAAA;
     margin: 0 0 12px;
@@ -10,6 +10,6 @@
 
 @media (max-width: 1023px) {
     .place__url {
-        line-height: 12px;
+        line-height: 1;
     }    
 }

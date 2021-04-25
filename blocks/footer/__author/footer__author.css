@@ -3,13 +3,13 @@
     font-style: normal;
     font-weight: normal;
     font-size: 14px;
-    line-height: 16px;
+    line-height: 1.14;
     color: #FFFFFF;
 }
 
 @media (max-width : 767px) {
     .footer__author {
-        line-height: 14px;
+        line-height: 1;
         margin-top: 48px;
     }    
 }
