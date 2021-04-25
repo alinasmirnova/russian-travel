@@ -17,7 +17,7 @@
     }
 }
 
-@media (max-width : 1023px) {
+@media (max-width : 767px) {
     .places {
         grid-gap: 50px;
         margin: 0 0 64px;
