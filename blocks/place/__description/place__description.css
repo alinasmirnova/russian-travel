@@ -1,0 +1,12 @@
+.place__description {
+    grid-area: description;
+    display: grid;
+    grid-row: min-content auto;
+    grid-gap: 26px;
+}
+
+@media (max-width : 1023px) {
+    .place__description {
+        grid-gap: 25px;
+    }
+}
