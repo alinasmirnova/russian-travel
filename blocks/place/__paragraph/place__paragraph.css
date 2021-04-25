@@ -1,0 +1,18 @@
+.place__paragraph {
+    margin: 26px 0 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 29px;
+    color: #FFFFFF;
+}
+
+.place__paragraph:first-of-type {
+    margin: 0;
+}
+
+@media (max-width : 767px) {
+    .place__paragraph {
+        margin: 0;
+    }
+}
