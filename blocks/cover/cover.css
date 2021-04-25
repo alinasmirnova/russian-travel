@@ -21,8 +21,8 @@
     }
 }
 
-@media (max-width : 200px) {
+@media (max-width : 767px) {
     .cover {
-        min-height: 640px;
+        min-height: 200px;
     }
 }
