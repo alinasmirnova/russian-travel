@@ -1,3 +1,16 @@
 .place {
     display: grid;
+    grid-template-areas:
+        "title website"
+        "image description";
+}
+
+@media (max-width : 767px) {
+    .place {
+        grid-template-areas:
+        "title"
+        "website"
+        "image"
+        "description";
+    }
 }
