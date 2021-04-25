@@ -8,6 +8,7 @@
     text-align: center;
     max-width: 560px;
     margin: 0 0 32px;
+    z-index: 1;
 }
 
 @media (max-width : 767px) {
