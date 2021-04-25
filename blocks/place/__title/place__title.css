@@ -5,6 +5,7 @@
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
+    margin: 0;
 }
 
 @media (max-width : 1023px) {
