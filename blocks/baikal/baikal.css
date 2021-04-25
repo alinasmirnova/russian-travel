@@ -1,0 +1,24 @@
+.baikal {
+    margin: 0 48px 92px;
+}
+
+@media (max-width : 1279px) {
+    .baikal {
+        margin: 0 0 90px;
+    }
+    
+}
+
+@media (max-width : 1023px) {
+    .baikal {
+        margin: 0 0 88px;
+    }
+    
+}
+
+@media (max-width : 767px) {
+    .baikal {
+        margin: 0 0 64px;
+    }
+    
+}
