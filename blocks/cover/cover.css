@@ -6,6 +6,7 @@
     position: relative;
     width: 100%;
     min-height: 740px;
+    text-decoration: none;
 }
 
 @media (max-width : 1279px) {
