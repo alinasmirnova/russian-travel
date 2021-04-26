@@ -3,4 +3,6 @@
     align-items: end;
     grid-template-columns: min-content min-content;
     grid-gap: 18px;
+    list-style: none;
+    padding: 0;
 }
