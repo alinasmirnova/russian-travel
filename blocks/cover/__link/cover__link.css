@@ -7,6 +7,10 @@
     width: 100%;
     text-decoration: none;
     min-height: 740px;
+    background-image: url(../../../images/cover-trains.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 @media (max-width: 1279px) {
