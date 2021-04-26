@@ -1,0 +1,28 @@
+.cover__link {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    text-decoration: none;
+    min-height: 740px;
+}
+
+@media (max-width: 1279px) {
+    .cover__link {
+        min-height: 640px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .cover__link {
+        min-height: 480px;
+    }
+}
+
+@media (max-width: 767px) {
+    .cover__link {
+        min-height: 200px;
+    }
+}
