@@ -6,6 +6,11 @@
     text-align: right;
     text-decoration: none;
     color: #FFFFFF;
+    transition: opacity .5s linear;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
 }
 
 @media (max-width: 767px) {
